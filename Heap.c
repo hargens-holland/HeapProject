@@ -1,36 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-// Main File:        p3Heap part A
-// This File:        p3Heap.c
-// Other Files:      tests, Makefile
-// Semester:         CS 354 Lecture 01 Fall 2024
-// Grade Group:      gg7  (See canvas.wisc.edu/groups for your gg#)
-// Instructor:       deppeler
-//
-// Author:           Holland Hargens
-// Email:            hhargens@wisc.edu
-// CS Login:         hhargens
-//
-///////////////////////////  OPTIONAL WORK LOG  //////////////////////////////
-//	Completed alloc() function 10/18
-//  Complete free_block() function 10/24
-///////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-// Persons:          Identify persons by name, relationship to you, and email.
-//                   Describe in detail the the ideas and help they provided.
-//
-// Online sources:   avoid web searches to solve your problems, but if you do
-//                   search, be sure to include Web URLs and description of
-//                   of any information you find.
-//
-// AI chats:         save a transcript and submit with project.
-//////////////////////////// 80 columns wide ///////////////////////////////////
-/////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2020-2024 Deb Deppeler based on work by Jim Skrentny
-// Posting or sharing this file is prohibited, including any changes.
-// Used by permission SPRING 2024, CS354-deppeler
-//
-/////////////////////////////////////////////////////////////////////////////
-
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/types.h>
